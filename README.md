@@ -1,0 +1,1 @@
+# Breakout-catcher-for-NSEstocks
